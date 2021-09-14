@@ -1,8 +1,4 @@
-<<<<<<< Updated upstream
-# Year_book
 
-TEST TEST TEST
-=======
 #  Year Book
 ------------
 ## Iwona Zdzieblo
@@ -24,4 +20,3 @@ TEST TEST TEST
 ### More1
 
 ### More2
->>>>>>> Stashed changes
