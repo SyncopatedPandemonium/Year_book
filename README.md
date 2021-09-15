@@ -4,6 +4,8 @@
 ## Iwona Zdzieblo
 
 ### Personal Information
+#### Name: Iwona Zdzieblo
+#### Nationality: polish
 
 ### Articles
 
