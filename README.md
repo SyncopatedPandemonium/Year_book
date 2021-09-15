@@ -17,7 +17,7 @@
 -------------
 ## Anna Kowalczyk
 
-### Personal Information
+### Personal Information for Anna
 #### Name: Kowalczyk
 #### Nationality: polish
 
