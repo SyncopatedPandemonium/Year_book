@@ -18,9 +18,9 @@
 ![programming](https://upload.wikimedia.org/wikipedia/commons/3/39/C_Hello_World_Program.png)
 
 
-### More1
+### Favourite book: __War and Piece__
 
-### More2
+### Favourite movie: __Beautiful mind__
 -------------
 ## Anna Kowalczyk
 
