@@ -22,7 +22,15 @@
 #### Nationality: polish
 
 ### Aricles
+[GitHub](www.github.com )
+[Git Local Branching](https://git-scm.com/docs/git-commit)
 
-### More1
+### Favourite Movies
+1. Persona
+2. 12 angry men
+3. Pulp Fiction
 
-### More2
+### Favourite Artists
+1. David Bowie
+2. Neil Young
+3. Bob Dylan
