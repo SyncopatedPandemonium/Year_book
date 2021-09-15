@@ -17,13 +17,9 @@
 -------------
 ## Anna Kowalczyk
 
-### Personal Information for Anna
-#### Name: Kowalczyk
+### Personal Information
+#### Name: Anna Kowalczyk
 #### Nationality: polish
-
-####Name: Anna Kowalczyk
-
-####Nationality: polish
 
 ### Aricles
 
